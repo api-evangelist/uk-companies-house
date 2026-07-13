@@ -1,0 +1,14 @@
+{
+  "repo": "uk-companies-house",
+  "feeds": [
+    {
+      "source": "https://companieshouse.blog.gov.uk/feed/",
+      "feed_url": "https://companieshouse.blog.gov.uk/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 11
+}
