@@ -1,4 +1,16 @@
 aid: uk-companies-house
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/uk-companies-house.png
 name: UK Companies House
 description: "UK Companies House Data from the UK government"
 url: https://developer.company-information.service.gov.uk/
