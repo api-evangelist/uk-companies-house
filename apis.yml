@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/uk-compani
 name: UK Companies House
 description: "UK Companies House Data from the UK government"
 url: https://developer.company-information.service.gov.uk/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
