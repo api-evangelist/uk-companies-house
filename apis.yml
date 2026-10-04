@@ -39,7 +39,6 @@ apis:
   - name: UK Companies House
     description: "UK Companies House Data from the UK government"
     humanURL: https://developer.company-information.service.gov.uk/
-    baseURL: https://developer.company-information.service.gov.uk/
     tags:
       - Government
     properties:
